@@ -13,3 +13,11 @@
 | capital | varchar(60)	      |    default null |
 | tld | varchar(5)      |    default null, web domain|
 | flag | varchar(255)      |    default null |
+
+* Table of 'nobel'
+
+| Field Name        | Data Type           | Comments  |
+| --------- | --------- | ----- |
+| yr      | int(11)	 | default null |
+| subject      | varchar(15)      |   default null |
+| winner | varchar(50)      |    default null |
