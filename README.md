@@ -1,4 +1,4 @@
-# SQL for Data Science
+# SQL for Data Science - SQLZoo
 ## Database Design
 
 * Table of 'world'
