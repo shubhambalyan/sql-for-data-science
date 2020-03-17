@@ -1,7 +1,5 @@
 -- Subqueries on table 'world'
 
--- SELECT command on table 'world'
-
 -- 1. List each country name where the population is larger than that of 'Russia'.
 
 SELECT name FROM world
