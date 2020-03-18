@@ -2,6 +2,7 @@
 ## Database Design
 
 * Table of 'game'
+
 | Field Name        | Data Type           | Comments  |
 | --------- | --------- | ----- |
 | id      | int(11)	 | not null, primary key |
@@ -11,6 +12,7 @@
 | team2      | varchar(100)      |   default null |
 
 * Table of 'goal'
+
 | Field Name        | Data Type           | Comments  |
 | --------- | --------- | ----- |
 | matchid      | int(11)	 | not null, primary key |
@@ -19,6 +21,7 @@
 | gtime      | int(11) | not null, primary key |
 
 * Table of 'eteam'
+
 | Field Name        | Data Type           | Comments  |
 | --------- | --------- | ----- |
 | id      | varchar(3)	 | default null |
